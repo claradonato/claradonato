@@ -1,4 +1,36 @@
-## Hi there 👋
+## Olá, Mundo 🚀
+🎓 Estudando para ser **cientista da computação** (IFCE)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=claradonato&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=79c0ff" width="50%" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=claradonato&theme=tokyonight&hide_border=true&background=000000&ring=79c0ff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" width="48%" />
+
+</div>
+
+
+
+### 💻 Estudando atualmente:
+- **JavaScript:**
+  - Aprofundando fundamentos para estruturação de algoritmos e lógica computacional
+  - Explorando o uso da linguagem no contexto de servidores, estruturas de dados e fundamentos teóricos
+
+- **Python:**
+  - Manipulação de dados com `pandas`, visualização com `matplotlib`
+  - Criação de scripts para automação de tarefas e leitura/escrita de arquivos
+  - Explorando conceitos de data science, análise exploratória e organização de dados
+
+### 🐧 Sistema Operacional:
+- Usuário de **Fedora Linux**, com interesse em terminal, scripts bash, software livre e ecossistemas open-source
+
+### 🌱 Outros interesses:
+- Jogos de tabuleiro
+- Atividades ao ar livre
+- Filosofia
+- Pintura
 
 <!--
 **claradonato/claradonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
