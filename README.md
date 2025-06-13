@@ -1,15 +1,31 @@
 ## Olá, Mundo 🚀
-🎓 Estudando para ser **cientista da computação** (IFCE)
+
+<p align="center">
+  <code><strong>Python</strong></code> |
+  <code><strong>JavaScript</strong></code> |
+  <code><strong>TypeScript</strong></code> |
+  <code><strong>Power BI</strong></code> |
+  <code><strong>Pandas</strong></code> |
+  <code><strong>Algoritmos</strong></code> |
+  <code><strong>Ciência</strong></code> |
+  <code><strong>Linux</strong></code>
+</p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=claradonato&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&bg_color=000000&text_color=ffffff&icon_color=79c0ff" width="50%" />
+  <!-- Streaks com destaque no current streak 🔥 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=claradonato&theme=tokyonight&hide_border=true&background=000000&ring=ff7f50&fire=ff7f50&currStreakLabel=ff7f50&sideLabels=ffffff" width="60%" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=claradonato&theme=tokyonight&hide_border=true&background=000000&ring=79c0ff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff" width="48%" />
+  <br><br>
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claradonato&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=79c0ff&text_color=ffffff&langs_count=6" width="50%" />
 
 </div>
+
+
 
 
 
