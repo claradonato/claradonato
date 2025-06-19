@@ -12,16 +12,21 @@
 </p>
 <div align="center">
 
-  <!-- Streaks com destaque no current streak 🔥 -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=claradonato&theme=tokyonight&hide_border=true&background=000000&ring=ff7f50&fire=ff7f50&currStreakLabel=ff7f50&sideLabels=ffffff" width="50%" />
+  <!-- Streak (total, current 🔥 e longest) -->
+  <img 
+    alt="GitHub Streak Stats" 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=claradonato&theme=tokyonight&hide_border=true&background=000000&ring=79c0ff&fire=ff7f50&currStreakLabel=79c0ff&sideLabels=ffffff" 
+    width="40%" 
+  />
 
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claradonato&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=79c0ff&text_color=ffffff&langs_count=6" width="40%" />
+   <!-- Linguagens mais usadas -->
+  <img 
+    alt="Top Languages" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=claradonato&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=79c0ff&text_color=ffffff&langs_count=6" 
+    width="40%" 
+  />
 
 </div>
-
-
-
 
 
 ### 💻 Estudando atualmente:
